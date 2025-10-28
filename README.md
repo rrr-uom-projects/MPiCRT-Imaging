@@ -1,4 +1,4 @@
-# MPiCRT-Imaiging
+# MPiCRT-Imaging
  
 MPiCRT Imaging Python Notebooks
 
