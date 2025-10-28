@@ -1,0 +1,9 @@
+/TheData
+*.jpg
+*.png
+*.jpeg
+*.bmp
+.ipynb_checkpoints/
+/breathing_data
+*.dcm
+/data
